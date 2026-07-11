@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CDF7&width=435&lines=++Roses+have+thorns%2C+my+code+has+bugs%E2%80%94both+make+me+grow.)](https://git.io/typing-svg)
 ## **Hello, I'm Warda**
 
 A passionate learner exploring the world of **Computer Science** with curiosity, creativity, and consistency.
