@@ -56,4 +56,5 @@ HTML • CSS • C++ • C • Git • VS Code • Linux Basics • Figma & Pyth
 > “I learn slowly, but I build beautifully.”
 
 ---
+https://img.shields.io/badge/dynamic/xml
 
