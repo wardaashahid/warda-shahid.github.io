@@ -3,7 +3,7 @@
 
 A passionate learner exploring the world of **Computer Science** with curiosity, creativity, and consistency.
 
----
+──────── ✦ ────────
 
 ## **About Me**
 
@@ -13,7 +13,7 @@ A passionate learner exploring the world of **Computer Science** with curiosity,
 🌱 Slow learner — but extremely consistent and committed
 💡 Believe in building things that look beautiful *and* work beautifully
 
----
+──────── ✦ ────────
 
 ## **What I'm Working On**
 
@@ -22,35 +22,36 @@ A passionate learner exploring the world of **Computer Science** with curiosity,
 📘 Improving **Git & GitHub workflow**
 🌼 Crafting aesthetic UI designs for future projects
 
----
+──────── ✦ ────────
 
 ## **Ask Me About**
 
 💬 HTML • CSS • C++ • OOP • Git • Basic Web Dev Concepts & Cloud Computing
-💬 Study tips, aesthetic learning techniques, notes & organization
+💬 Study tips, learning techniques, notes & organization
 
----
+──────── ✦ ────────
 
 ## **How to Reach Me**
 
 📫 Email wardashahidofficial@gmail.com
 🌐 LinkedIn https://www.linkedin.com/in/warda-shahid-03a543346/
 
----
-
+──────── ✦ ────────
 ## **Languages & Tools**
 
-HTML • CSS • C++ • C • Git • VS Code • Linux Basics • Figma & Python
+HTML • CSS • C++ • C • Git • VS Code • Linux Basics • Figma & Python • Java
 
----
+──────── ✦ ────────
 
 ## **Skills & Focus**
 
 ✨ **Frontend Basics:** HTML, CSS, layout structuring
-⚙️ **Programming:** C++, OOP, pointers, dynamic memory, constructors
+⚙️ **Programming:** C++, OOP, DSA , ANN , ML
 📁 **Tools:** Git & GitHub, VS Code, terminal basics
 🎨 **Design:** Aesthetic UI, minimal layouts
-🧩 **Thinking:** Problem-solving mindset, step-by-step learning
+🧩 **Thinking:** Problem-solving mindset, step-by-step learning,creative approach
+
+──────── ✦ ────────
 
 ---
 
