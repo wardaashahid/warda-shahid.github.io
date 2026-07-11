@@ -1,4 +1,4 @@
-<img src="Downloads/strawberry.png" width="100%">
+<img src="Downloads/strawberry.jpg" width="100%">
 
 ## **Hello, I'm Warda**
 
