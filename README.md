@@ -1,4 +1,4 @@
-![Banner](Downloads/banner.png)
+
 
 ## **Hello, I'm Warda**
 
