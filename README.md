@@ -1,3 +1,5 @@
+<img src="strawberry.png" width="100%">
+
 ## **Hello, I'm Warda**
 
 A passionate learner exploring the world of **Computer Science** with curiosity, creativity, and consistency.
