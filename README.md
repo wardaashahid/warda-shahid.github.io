@@ -1,4 +1,4 @@
-![Banner](images/banner.webp)
+![Banner](Downloads/banner.png)
 
 ## **Hello, I'm Warda**
 
