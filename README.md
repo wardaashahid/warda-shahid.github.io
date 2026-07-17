@@ -10,7 +10,7 @@ A passionate learner exploring the world of **Computer Science** with curiosity,
 🚀 Currently learning **HTML, CSS, C++,Python and OOP concepts**
 🎨 Love creating **aesthetic & clean designs**
 🧠 Interested in **AI, Web Development, Git/GitHub & Problem Solving**
-🌱 Slow learner — but extremely consistent and committed
+🌱 code works. don't ask why.
 💡 Believe in building things that look beautiful *and* work beautifully
 
 ──────── ✦ ────────
