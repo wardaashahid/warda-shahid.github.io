@@ -1,26 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CDF7&width=435&lines=++Thorns+build+roses%2C+bugs+build+coders.)](https://git.io/typing-svg)
-## **Hello, I'm Warda**
+## **hi, i'm warda — glad you're here.**
 
-A passionate learner exploring the world of **Computer Science** with curiosity, creativity, and consistency.
+teaching computers new tricks. they're stubborn.
 
 ──────── ✦ ────────
 
 ## **About Me**
 
-🚀 Currently learning **HTML, CSS, C++,Python and OOP concepts**
-🎨 Love creating **aesthetic & clean designs**
-🧠 Interested in **AI, Web Development, Git/GitHub & Problem Solving**
+💻 teaching computers what to do
+
+☕ surviving on caffeine & compiler errors
+
+🚀 exploring ai, web development, git/github & whatever catches my curiosity
+
 🌱 code works. don't ask why.
-💡 Believe in building things that look beautiful *and* work beautifully
 
 ──────── ✦ ────────
 
 ## **What I'm Working On**
 
-🖥 Building my **first personal portfolio**
-🔧 Practicing **C++ OOP (polymorphism, constructors, pointers),Python libraries and webscraping**
-📘 Improving **Git & GitHub workflow**
-🌼 Crafting aesthetic UI designs for future projects
+🖥 convincing my first portfolio to look impressive
+
+🔧 negotiating with c++, python & web scraping (the compiler still has trust issues)
+
+📘 trying to become friends with git before it blames me again
+
+🌼 making uis prettier than my debugging sessions
 
 ──────── ✦ ────────
 
