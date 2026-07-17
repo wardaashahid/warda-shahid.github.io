@@ -7,25 +7,25 @@ teaching computers new tricks. they're stubborn.
 
 ## **About Me**
 
-💻 teaching computers what to do
+• teaching computers what to do
 
-☕ surviving on caffeine & compiler errors
+• surviving on caffeine & compiler errors
 
-🚀 exploring ai, web development, git/github & whatever catches my curiosity
+• exploring ai, web development, git/github & whatever catches my curiosity
 
-🌱 code works. don't ask why.
+• code works. don't ask why.
 
 ──────── ✦ ────────
 
 ## **What I'm Working On**
 
-🖥 convincing my first portfolio to look impressive
+• convincing my first portfolio to look impressive
 
-🔧 negotiating with c++, python & web scraping (the compiler still has trust issues)
+• negotiating with c++, python & web scraping (the compiler still has trust issues)
 
-📘 trying to become friends with git before it blames me again
+• trying to become friends with git before it blames me again
 
-🌼 making uis prettier than my debugging sessions
+• making uis prettier than my debugging sessions
 
 ──────── ✦ ────────
 
@@ -50,11 +50,11 @@ HTML • CSS • C++ • C • Git • VS Code • Linux Basics • Figma & Pyth
 
 ## **Skills & Focus**
 
-✨ **Frontend Basics:** HTML, CSS, layout structuring
-⚙️ **Programming:** C++, OOP, DSA , ANN , ML
-📁 **Tools:** Git & GitHub, VS Code, terminal basics
-🎨 **Design:** Aesthetic UI, minimal layouts
-🧩 **Thinking:** Problem-solving mindset, step-by-step learning,creative approach
+• **Frontend Basics:** HTML, CSS, layout structuring
+• **Programming:** C++, OOP, DSA , ANN , ML
+• **Tools:** Git & GitHub, VS Code, terminal basics
+• **Design:** Aesthetic UI, minimal layouts
+• **Thinking:** Problem-solving mindset, step-by-step learning,creative approach
 
 ──────── ✦ ────────
 
