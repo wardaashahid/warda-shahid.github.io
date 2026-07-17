@@ -31,8 +31,8 @@ teaching computers new tricks. they're stubborn.
 
 ## **Ask Me About**
 
-💬 HTML • CSS • C++ • OOP • Git • Basic Web Dev Concepts & Cloud Computing
-💬 Study tips, learning techniques, notes & organization
+• HTML • CSS • C++ • OOP • Git • Basic Web Dev Concepts & Cloud Computing
+• Study tips, learning techniques, notes & organization
 
 ──────── ✦ ────────
 
